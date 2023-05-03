@@ -1,2 +1,2 @@
-# uin23_eksamen_gruppe14
-Eksamensoppgave for gruppe 14
+# uin23_eksamen_gruppe16
+Eksamensoppgave for gruppe 16
