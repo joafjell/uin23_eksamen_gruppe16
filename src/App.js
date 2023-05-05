@@ -1,6 +1,6 @@
 import './App.css';
 import './css/main.css';
-import Dashboard from './components/Dashboard';
+//import Dashboard from './components/Dashboard';
 
 
 function App() {
