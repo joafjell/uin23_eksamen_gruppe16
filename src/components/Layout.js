@@ -12,7 +12,7 @@ export default function Layout(){
                 <Outlet />
             </main>
             <footer>
-                
+                <a href="https://rawg.io/apidocs">Api er hentet fra APIet til RAWG</a>
             </footer>
         </div>
     )
