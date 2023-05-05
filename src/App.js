@@ -1,11 +1,16 @@
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import Layout from './components/Layout';
 import './css/main.css';
 //import Dashboard from './components/Dashboard';
 
 
 function App() {
   return (
-    <h1>Spill App</h1>
+    <Routes>
+      <Route element={<Layout/>}>
+      </Route>
+    </Routes>
   );
 }
 
